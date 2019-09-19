@@ -1,0 +1,30 @@
+body {
+	background: floralwhite;
+	color: black;
+}
+h1 {
+	text-align: center;
+	color: crimson;
+}
+a {
+	color: red;
+	font-size: 150%;
+	text-align: center;
+}
+
+li {
+	text-align: center;
+	line-height: 3;
+}
+
+hr {
+    border-top: 3px double #333;
+	width: 50%;
+}
+
+input {
+	display: block;
+	margin: 0 auto;
+}
+
+
